@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-id="ADN.fr" tvg-name="ADN" tvg-logo="https://raw.githubusercontent.com/Trouve-Me/Anime/refs/heads/master/ADN.jpg" group-title="Anime",ADN - Animation Digital Network
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
-#EXTINF:-1 tvg-id="NHK-G.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/Trouve-Me/Anime/refs/heads/master/Japan News/NHKG.png" group-title="Japan;Japan News",NHK G - Nippon Hoso Kyokai General
+#EXTINF:-1 tvg-id="NHK-G.jp" tvg-name="NHK General" tvg-logo="https://raw.githubusercontent.com/Trouve-Me/Anime/refs/heads/master/Japan News/NHKG.png" group-title="Japan News",NHK G - Nippon Hoso Kyokai General
 https://nl.utako.moe/NHK_G/index.m3u8
 
-#EXTINF:-1 tvg-id="NHK-E.jp" tvg-name="NHK Educational" tvg-logo="https://raw.githubusercontent.com/Trouve-Me/Anime/refs/heads/master/Japan News/NHKE.png" group-title="Japan;Japan News",NHK E - Nippon Hoso Kyokai Education
+#EXTINF:-1 tvg-id="NHK-E.jp" tvg-name="NHK Educational" tvg-logo="https://raw.githubusercontent.com/Trouve-Me/Anime/refs/heads/master/Japan News/NHKE.png" group-title="Japan News",NHK E - Nippon Hoso Kyokai Education
 https://nl.utako.moe/NHK_E/index.m3u8
